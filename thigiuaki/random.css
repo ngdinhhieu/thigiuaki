@@ -1,0 +1,24 @@
+* {
+    text-align: center;
+    background-color: black;
+    margin: 20px;
+}
+
+#xyz {
+    color: rgb(216, 62, 20);
+    font-size: 5rem;
+
+}
+
+#def {
+    background-color: rgb(90, 161, 223);
+    cursor: pointer;
+    color: rgb(209, 68, 190);
+    font-size: 1rem;
+    border-radius: 10px;
+
+}
+
+#abc {
+    color: aliceblue;
+}
